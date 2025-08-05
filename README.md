@@ -1,1 +1,9 @@
 # janes_blue_bomber
+
+MD5 Sums:
+178f56aaa7336696746ab016085966ca  janes_blue_bomber
+efcd956fca7ef301001dc18dff04751a  janes_blue_bomber.py
+
+SHA256 Sums:
+6466233e010af606e2e98b58e9f3366517e198056dd8f2584d5ba1ee58574016  janes_blue_bomber
+638088285ae17c7aeff0726bee0bc4fa18fdbb4be59b8a94ed9afcf2859c3ba3  janes_blue_bomber.py
